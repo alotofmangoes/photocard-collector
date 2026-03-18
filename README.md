@@ -1,6 +1,3 @@
-# photocard-collector
-A draft of a game where you collect photocards!
-
 # Photocard Collector
 
 #### Website Link: https://photocard-collector.netlify.app/
