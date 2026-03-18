@@ -131,7 +131,7 @@ Step 6: For the card level to appear in the top right corner of the card this wa
 
 Step 7: There are a total of three members used in this project and as mentioned earlier, each member had their own column. The images used were placeholders letting the player know which member was going in which spot and what the odds of getting them were.
 
-    <img width="483" height="256" alt="Image" src="https://github.com/user-attachments/assets/cc97cabb-a024-4464-8622-ae67916b5d65" />
+<img width="483" height="256" alt="Image" src="https://github.com/user-attachments/assets/cc97cabb-a024-4464-8622-ae67916b5d65" />
 
 The properties and values for the layout of the cards and images were the following:
 
