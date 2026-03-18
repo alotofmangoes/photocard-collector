@@ -48,12 +48,12 @@ The properties and values used for the headers are:
         letter-spacing: 1px;
     }
 
-Step 4: Two <div> tags were created representing the main section of the document and the content section within the main.
+Step 4: Two div tags were created representing the main section of the document and the content section within the main.
 
     <div class="main">
                 <div class="content">
 
-The <div> element with the class attribute of “main” has the following properties and values:
+The div element with the class attribute of “main” has the following properties and values:
 
     .main {
         position: relative;
